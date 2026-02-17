@@ -224,7 +224,7 @@ If you use this code in your research, please cite:
 
 ## License
 
-[License information to be added]
+This project is MIT licensed, as found in the [LICENSE](LICENSE) file.
 
 ## Notes
 
