@@ -1,0 +1,4042 @@
+{
+    "Emma": {
+        "persona_info": {
+            "name": "Emma",
+            "microwave oven": {
+                "primary heating mechanism": {
+                    "dislike": [
+                        "convection fan heating",
+                        "inverter microwave control",
+                        "infrared radiant heating"
+                    ],
+                    "like_most": "magnetron microwave emission",
+                    "like_second": [
+                        "steam injection system",
+                        "solid-state RF amplifier heating"
+                    ]
+                },
+                "door configuration": {
+                    "dislike": [
+                        "top-hinged pull-down door",
+                        "right-hinged swing door",
+                        "left-hinged swing door"
+                    ],
+                    "like_most": "side-sliding door",
+                    "like_second": [
+                        "french-door twin-door",
+                        "drop-lift vertical door"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "capacitive touch screen",
+                        "rotary encoder knob",
+                        "voice command interface"
+                    ],
+                    "like_most": "membrane touch keypad",
+                    "like_second": [
+                        "app-based remote control",
+                        "mechanical dial panel"
+                    ]
+                }
+            },
+            "air conditioner": {
+                "cooling mechanism type": {
+                    "dislike": [
+                        "magnetic refrigeration core",
+                        "liquid desiccant dehumidification loop",
+                        "thermoelectric module"
+                    ],
+                    "like_most": "evaporative cooling chamber",
+                    "like_second": [
+                        "vapor-compression system",
+                        "absorption refrigeration system"
+                    ]
+                },
+                "installation configuration": {
+                    "dislike": [
+                        "window unit",
+                        "ducted central system",
+                        "portable tower unit"
+                    ],
+                    "like_most": "split system",
+                    "like_second": [
+                        "through-the-wall sleeve unit",
+                        "ceiling cassette module"
+                    ]
+                },
+                "primary airflow distribution mode": {
+                    "dislike": [
+                        "coanda-deflector outlet",
+                        "multi-duct venting network",
+                        "floor-level displacement vent"
+                    ],
+                    "like_most": "oscillating-blade diffuser",
+                    "like_second": [
+                        "fixed-louver outlet",
+                        "360-degree circular discharge"
+                    ]
+                }
+            },
+            "washing machine": {
+                "loading mechanism": {
+                    "dislike": [
+                        "front-loading drum",
+                        "twin-tub compartment",
+                        "vertical-axis agitator system"
+                    ],
+                    "like_most": "top-loading drum",
+                    "like_second": [
+                        "pedestal drawer washer module",
+                        "tilt-drum mechanism"
+                    ]
+                },
+                "washing motion system": {
+                    "dislike": [
+                        "reciprocating drum system",
+                        "ultrasonic cavitation wash",
+                        "pulsator plate system"
+                    ],
+                    "like_most": "tumble drum system",
+                    "like_second": [
+                        "agitator system",
+                        "impeller plate system"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "rotary knob controller",
+                        "touchscreen interface",
+                        "dial-and-display hybrid panel"
+                    ],
+                    "like_most": "push-button console",
+                    "like_second": [
+                        "mechanical dial panel",
+                        "smartphone app interface"
+                    ]
+                }
+            },
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "panel-ready integrated unit",
+                        "portable freestanding unit",
+                        "countertop compact unit"
+                    ],
+                    "like_most": "ADA-height compliant unit",
+                    "like_second": [
+                        "built-in undercounter unit",
+                        "double-drawer module"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "ultrasonic cavitation chamber",
+                        "rotary spray-arm system",
+                        "orbital spray disk"
+                    ],
+                    "like_most": "quad-wash multi-arm system",
+                    "like_second": [
+                        "linear waterwall system",
+                        "impeller jet manifold"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "condensation drying system",
+                        "door-auto-open venting mechanism",
+                        "heated-element drying system"
+                    ],
+                    "like_most": "zeolite drying unit",
+                    "like_second": [
+                        "heat-pump drying system",
+                        "fan-vent circulation module"
+                    ]
+                }
+            },
+            "smartphone": {
+                "primary interaction modality": {
+                    "dislike": [
+                        "gesture control system",
+                        "touchscreen interface",
+                        "voice command system"
+                    ],
+                    "like_most": "physical keypad interface",
+                    "like_second": [
+                        "pressure-squeeze input",
+                        "stylus interface"
+                    ]
+                },
+                "biometric authentication method": {
+                    "dislike": [
+                        "palm vein recognition",
+                        "iris recognition system",
+                        "palm print recognition"
+                    ],
+                    "like_most": "facial recognition system",
+                    "like_second": [
+                        "voice authentication system",
+                        "fingerprint scanner"
+                    ]
+                },
+                "rear camera module count": {
+                    "dislike": [
+                        "triple rear camera module",
+                        "penta rear camera module",
+                        "quad rear camera module"
+                    ],
+                    "like_most": "single rear camera module",
+                    "like_second": [
+                        "rear camera\u2013less configuration",
+                        "dual rear camera module"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "microwave oven",
+            "air conditioner",
+            "washing machine",
+            "dishwasher",
+            "smartphone"
+        ]
+    },
+    "Liam": {
+        "persona_info": {
+            "name": "Liam",
+            "headphones": {
+                "wearing style": {
+                    "dislike": [
+                        "on-ear design",
+                        "ear-hook in-ear design",
+                        "bone-conduction frame"
+                    ],
+                    "like_most": "in-ear design",
+                    "like_second": [
+                        "behind-the-neck band",
+                        "over-ear design"
+                    ]
+                },
+                "acoustic principle": {
+                    "dislike": [
+                        "dynamic driver system",
+                        "bone-vibration actuator",
+                        "planar magnetic array"
+                    ],
+                    "like_most": "balanced armature module",
+                    "like_second": [
+                        "piezoelectric transducer",
+                        "electrostatic transducer"
+                    ]
+                },
+                "primary connectivity mode": {
+                    "dislike": [
+                        "bluetooth link",
+                        "2.4 GHz low-latency dongle",
+                        "USB-C digital interface"
+                    ],
+                    "like_most": "RF transmitter set",
+                    "like_second": [
+                        "wired connection",
+                        "Lightning connector"
+                    ]
+                }
+            },
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "ADA-height compliant unit",
+                        "portable freestanding unit",
+                        "built-in undercounter unit"
+                    ],
+                    "like_most": "countertop compact unit",
+                    "like_second": [
+                        "double-drawer module",
+                        "panel-ready integrated unit"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "rotary spray-arm system",
+                        "impeller jet manifold",
+                        "orbital spray disk"
+                    ],
+                    "like_most": "linear waterwall system",
+                    "like_second": [
+                        "quad-wash multi-arm system",
+                        "ultrasonic cavitation chamber"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "zeolite drying unit",
+                        "condensation drying system",
+                        "door-auto-open venting mechanism"
+                    ],
+                    "like_most": "fan-vent circulation module",
+                    "like_second": [
+                        "heated-element drying system",
+                        "heat-pump drying system"
+                    ]
+                }
+            },
+            "laptop": {
+                "form factor": {
+                    "dislike": [
+                        "sliding-convertible hinge",
+                        "360-degree convertible hinge",
+                        "dual-screen foldable hinge"
+                    ],
+                    "like_most": "detachable keyboard tablet",
+                    "like_second": [
+                        "swivel-rotating hinge",
+                        "clamshell hinge"
+                    ]
+                },
+                "included charging adapter type": {
+                    "dislike": [
+                        "barrel-jack AC adapter",
+                        "pogo-pin dock adapter",
+                        "slim-tip AC adapter"
+                    ],
+                    "like_most": "dock-connector AC adapter",
+                    "like_second": [
+                        "magnetic AC adapter",
+                        "USB-C AC adapter"
+                    ]
+                },
+                "webcam placement": {
+                    "dislike": [
+                        "display-notch camera",
+                        "camera-less configuration",
+                        "under-display camera"
+                    ],
+                    "like_most": "top-bezel camera",
+                    "like_second": [
+                        "bottom-bezel camera",
+                        "keyboard pop-up camera"
+                    ]
+                }
+            },
+            "smartphone": {
+                "primary interaction modality": {
+                    "dislike": [
+                        "stylus interface",
+                        "voice command system",
+                        "gesture control system"
+                    ],
+                    "like_most": "pressure-squeeze input",
+                    "like_second": [
+                        "physical keypad interface",
+                        "touchscreen interface"
+                    ]
+                },
+                "biometric authentication method": {
+                    "dislike": [
+                        "iris recognition system",
+                        "palm print recognition",
+                        "palm vein recognition"
+                    ],
+                    "like_most": "fingerprint scanner",
+                    "like_second": [
+                        "facial recognition system",
+                        "voice authentication system"
+                    ]
+                },
+                "rear camera module count": {
+                    "dislike": [
+                        "quad rear camera module",
+                        "single rear camera module",
+                        "rear camera\u2013less configuration"
+                    ],
+                    "like_most": "penta rear camera module",
+                    "like_second": [
+                        "dual rear camera module",
+                        "triple rear camera module"
+                    ]
+                }
+            },
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "top-freezer layout",
+                        "bottom-freezer layout",
+                        "side-by-side structure"
+                    ],
+                    "like_most": "quad-door layout",
+                    "like_second": [
+                        "single-door design",
+                        "french-door layout"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "dual-evaporator inverter system",
+                        "absorption cooling system",
+                        "inverter compressor loop"
+                    ],
+                    "like_most": "thermoelectric Peltier system",
+                    "like_second": [
+                        "dual-loop sealed system",
+                        "fixed-speed compressor loop"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "modular-bin system",
+                        "convertible-zone partition",
+                        "fixed-shelf layout"
+                    ],
+                    "like_most": "drawer-centric structure",
+                    "like_second": [
+                        "door-in-door access module",
+                        "door-compartment emphasis"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "headphones",
+            "dishwasher",
+            "laptop",
+            "smartphone",
+            "refrigerator"
+        ]
+    },
+    "Sophia": {
+        "persona_info": {
+            "name": "Sophia",
+            "air conditioner": {
+                "cooling mechanism type": {
+                    "dislike": [
+                        "evaporative cooling chamber",
+                        "absorption refrigeration system",
+                        "magnetic refrigeration core"
+                    ],
+                    "like_most": "liquid desiccant dehumidification loop",
+                    "like_second": [
+                        "vapor-compression system",
+                        "thermoelectric module"
+                    ]
+                },
+                "installation configuration": {
+                    "dislike": [
+                        "ceiling cassette module",
+                        "window unit",
+                        "portable tower unit"
+                    ],
+                    "like_most": "split system",
+                    "like_second": [
+                        "ducted central system",
+                        "through-the-wall sleeve unit"
+                    ]
+                },
+                "primary airflow distribution mode": {
+                    "dislike": [
+                        "360-degree circular discharge",
+                        "floor-level displacement vent",
+                        "coanda-deflector outlet"
+                    ],
+                    "like_most": "multi-duct venting network",
+                    "like_second": [
+                        "fixed-louver outlet",
+                        "oscillating-blade diffuser"
+                    ]
+                }
+            },
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Google TV",
+                        "SmartCast platform",
+                        "Roku TV"
+                    ],
+                    "like_most": "Fire TV",
+                    "like_second": [
+                        "Tizen",
+                        "webOS"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "MicroLED panel",
+                        "TN LCD panel",
+                        "VA LCD panel"
+                    ],
+                    "like_most": "QD-OLED panel",
+                    "like_second": [
+                        "IPS LCD panel",
+                        "OLED panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "dual-feet base",
+                        "central pedestal base",
+                        "wall-mount-only design"
+                    ],
+                    "like_most": "swivel pedestal base",
+                    "like_second": [
+                        "easel-frame base",
+                        "integrated floor stand"
+                    ]
+                }
+            },
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "french-door layout",
+                        "bottom-freezer layout",
+                        "side-by-side structure"
+                    ],
+                    "like_most": "single-door design",
+                    "like_second": [
+                        "top-freezer layout",
+                        "quad-door layout"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "inverter compressor loop",
+                        "absorption cooling system",
+                        "dual-loop sealed system"
+                    ],
+                    "like_most": "thermoelectric Peltier system",
+                    "like_second": [
+                        "fixed-speed compressor loop",
+                        "dual-evaporator inverter system"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "door-in-door access module",
+                        "drawer-centric structure",
+                        "door-compartment emphasis"
+                    ],
+                    "like_most": "modular-bin system",
+                    "like_second": [
+                        "convertible-zone partition",
+                        "fixed-shelf layout"
+                    ]
+                }
+            },
+            "smartphone": {
+                "primary interaction modality": {
+                    "dislike": [
+                        "voice command system",
+                        "physical keypad interface",
+                        "stylus interface"
+                    ],
+                    "like_most": "gesture control system",
+                    "like_second": [
+                        "pressure-squeeze input",
+                        "touchscreen interface"
+                    ]
+                },
+                "biometric authentication method": {
+                    "dislike": [
+                        "palm print recognition",
+                        "facial recognition system",
+                        "voice authentication system"
+                    ],
+                    "like_most": "fingerprint scanner",
+                    "like_second": [
+                        "palm vein recognition",
+                        "iris recognition system"
+                    ]
+                },
+                "rear camera module count": {
+                    "dislike": [
+                        "quad rear camera module",
+                        "single rear camera module",
+                        "rear camera\u2013less configuration"
+                    ],
+                    "like_most": "dual rear camera module",
+                    "like_second": [
+                        "penta rear camera module",
+                        "triple rear camera module"
+                    ]
+                }
+            },
+            "laptop": {
+                "form factor": {
+                    "dislike": [
+                        "detachable keyboard tablet",
+                        "swivel-rotating hinge",
+                        "dual-screen foldable hinge"
+                    ],
+                    "like_most": "360-degree convertible hinge",
+                    "like_second": [
+                        "clamshell hinge",
+                        "sliding-convertible hinge"
+                    ]
+                },
+                "included charging adapter type": {
+                    "dislike": [
+                        "USB-C AC adapter",
+                        "pogo-pin dock adapter",
+                        "slim-tip AC adapter"
+                    ],
+                    "like_most": "magnetic AC adapter",
+                    "like_second": [
+                        "barrel-jack AC adapter",
+                        "dock-connector AC adapter"
+                    ]
+                },
+                "webcam placement": {
+                    "dislike": [
+                        "top-bezel camera",
+                        "camera-less configuration",
+                        "under-display camera"
+                    ],
+                    "like_most": "display-notch camera",
+                    "like_second": [
+                        "keyboard pop-up camera",
+                        "bottom-bezel camera"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "air conditioner",
+            "TV",
+            "refrigerator",
+            "smartphone",
+            "laptop"
+        ]
+    },
+    "Noah": {
+        "persona_info": {
+            "name": "Noah",
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Roku TV",
+                        "Google TV",
+                        "SmartCast platform"
+                    ],
+                    "like_most": "Tizen",
+                    "like_second": [
+                        "Fire TV",
+                        "webOS"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "OLED panel",
+                        "MicroLED panel",
+                        "QD-OLED panel"
+                    ],
+                    "like_most": "TN LCD panel",
+                    "like_second": [
+                        "VA LCD panel",
+                        "IPS LCD panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "integrated floor stand",
+                        "wall-mount-only design",
+                        "easel-frame base"
+                    ],
+                    "like_most": "swivel pedestal base",
+                    "like_second": [
+                        "central pedestal base",
+                        "dual-feet base"
+                    ]
+                }
+            },
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "side-by-side structure",
+                        "quad-door layout",
+                        "bottom-freezer layout"
+                    ],
+                    "like_most": "top-freezer layout",
+                    "like_second": [
+                        "french-door layout",
+                        "single-door design"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "absorption cooling system",
+                        "dual-loop sealed system",
+                        "fixed-speed compressor loop"
+                    ],
+                    "like_most": "thermoelectric Peltier system",
+                    "like_second": [
+                        "dual-evaporator inverter system",
+                        "inverter compressor loop"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "convertible-zone partition",
+                        "drawer-centric structure",
+                        "modular-bin system"
+                    ],
+                    "like_most": "door-compartment emphasis",
+                    "like_second": [
+                        "door-in-door access module",
+                        "fixed-shelf layout"
+                    ]
+                }
+            },
+            "washing machine": {
+                "loading mechanism": {
+                    "dislike": [
+                        "vertical-axis agitator system",
+                        "front-loading drum",
+                        "tilt-drum mechanism"
+                    ],
+                    "like_most": "twin-tub compartment",
+                    "like_second": [
+                        "top-loading drum",
+                        "pedestal drawer washer module"
+                    ]
+                },
+                "washing motion system": {
+                    "dislike": [
+                        "agitator system",
+                        "tumble drum system",
+                        "ultrasonic cavitation wash"
+                    ],
+                    "like_most": "impeller plate system",
+                    "like_second": [
+                        "reciprocating drum system",
+                        "pulsator plate system"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "push-button console",
+                        "dial-and-display hybrid panel",
+                        "smartphone app interface"
+                    ],
+                    "like_most": "rotary knob controller",
+                    "like_second": [
+                        "mechanical dial panel",
+                        "touchscreen interface"
+                    ]
+                }
+            },
+            "laptop": {
+                "form factor": {
+                    "dislike": [
+                        "detachable keyboard tablet",
+                        "clamshell hinge",
+                        "swivel-rotating hinge"
+                    ],
+                    "like_most": "360-degree convertible hinge",
+                    "like_second": [
+                        "sliding-convertible hinge",
+                        "dual-screen foldable hinge"
+                    ]
+                },
+                "included charging adapter type": {
+                    "dislike": [
+                        "pogo-pin dock adapter",
+                        "dock-connector AC adapter",
+                        "slim-tip AC adapter"
+                    ],
+                    "like_most": "magnetic AC adapter",
+                    "like_second": [
+                        "USB-C AC adapter",
+                        "barrel-jack AC adapter"
+                    ]
+                },
+                "webcam placement": {
+                    "dislike": [
+                        "bottom-bezel camera",
+                        "top-bezel camera",
+                        "camera-less configuration"
+                    ],
+                    "like_most": "under-display camera",
+                    "like_second": [
+                        "display-notch camera",
+                        "keyboard pop-up camera"
+                    ]
+                }
+            },
+            "air conditioner": {
+                "cooling mechanism type": {
+                    "dislike": [
+                        "vapor-compression system",
+                        "absorption refrigeration system",
+                        "magnetic refrigeration core"
+                    ],
+                    "like_most": "liquid desiccant dehumidification loop",
+                    "like_second": [
+                        "thermoelectric module",
+                        "evaporative cooling chamber"
+                    ]
+                },
+                "installation configuration": {
+                    "dislike": [
+                        "through-the-wall sleeve unit",
+                        "window unit",
+                        "ducted central system"
+                    ],
+                    "like_most": "split system",
+                    "like_second": [
+                        "ceiling cassette module",
+                        "portable tower unit"
+                    ]
+                },
+                "primary airflow distribution mode": {
+                    "dislike": [
+                        "coanda-deflector outlet",
+                        "360-degree circular discharge",
+                        "oscillating-blade diffuser"
+                    ],
+                    "like_most": "multi-duct venting network",
+                    "like_second": [
+                        "floor-level displacement vent",
+                        "fixed-louver outlet"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "TV",
+            "refrigerator",
+            "washing machine",
+            "laptop",
+            "air conditioner"
+        ]
+    },
+    "Olivia": {
+        "persona_info": {
+            "name": "Olivia",
+            "air conditioner": {
+                "cooling mechanism type": {
+                    "dislike": [
+                        "vapor-compression system",
+                        "thermoelectric module",
+                        "liquid desiccant dehumidification loop"
+                    ],
+                    "like_most": "evaporative cooling chamber",
+                    "like_second": [
+                        "magnetic refrigeration core",
+                        "absorption refrigeration system"
+                    ]
+                },
+                "installation configuration": {
+                    "dislike": [
+                        "ceiling cassette module",
+                        "split system",
+                        "window unit"
+                    ],
+                    "like_most": "ducted central system",
+                    "like_second": [
+                        "through-the-wall sleeve unit",
+                        "portable tower unit"
+                    ]
+                },
+                "primary airflow distribution mode": {
+                    "dislike": [
+                        "oscillating-blade diffuser",
+                        "360-degree circular discharge",
+                        "floor-level displacement vent"
+                    ],
+                    "like_most": "fixed-louver outlet",
+                    "like_second": [
+                        "coanda-deflector outlet",
+                        "multi-duct venting network"
+                    ]
+                }
+            },
+            "smartphone": {
+                "primary interaction modality": {
+                    "dislike": [
+                        "stylus interface",
+                        "physical keypad interface",
+                        "pressure-squeeze input"
+                    ],
+                    "like_most": "gesture control system",
+                    "like_second": [
+                        "touchscreen interface",
+                        "voice command system"
+                    ]
+                },
+                "biometric authentication method": {
+                    "dislike": [
+                        "fingerprint scanner",
+                        "voice authentication system",
+                        "palm print recognition"
+                    ],
+                    "like_most": "facial recognition system",
+                    "like_second": [
+                        "iris recognition system",
+                        "palm vein recognition"
+                    ]
+                },
+                "rear camera module count": {
+                    "dislike": [
+                        "rear camera\u2013less configuration",
+                        "penta rear camera module",
+                        "triple rear camera module"
+                    ],
+                    "like_most": "dual rear camera module",
+                    "like_second": [
+                        "quad rear camera module",
+                        "single rear camera module"
+                    ]
+                }
+            },
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "portable freestanding unit",
+                        "countertop compact unit",
+                        "built-in undercounter unit"
+                    ],
+                    "like_most": "ADA-height compliant unit",
+                    "like_second": [
+                        "double-drawer module",
+                        "panel-ready integrated unit"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "linear waterwall system",
+                        "rotary spray-arm system",
+                        "orbital spray disk"
+                    ],
+                    "like_most": "ultrasonic cavitation chamber",
+                    "like_second": [
+                        "quad-wash multi-arm system",
+                        "impeller jet manifold"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "door-auto-open venting mechanism",
+                        "heat-pump drying system",
+                        "condensation drying system"
+                    ],
+                    "like_most": "heated-element drying system",
+                    "like_second": [
+                        "fan-vent circulation module",
+                        "zeolite drying unit"
+                    ]
+                }
+            },
+            "headphones": {
+                "wearing style": {
+                    "dislike": [
+                        "ear-hook in-ear design",
+                        "bone-conduction frame",
+                        "in-ear design"
+                    ],
+                    "like_most": "behind-the-neck band",
+                    "like_second": [
+                        "on-ear design",
+                        "over-ear design"
+                    ]
+                },
+                "acoustic principle": {
+                    "dislike": [
+                        "electrostatic transducer",
+                        "balanced armature module",
+                        "bone-vibration actuator"
+                    ],
+                    "like_most": "piezoelectric transducer",
+                    "like_second": [
+                        "dynamic driver system",
+                        "planar magnetic array"
+                    ]
+                },
+                "primary connectivity mode": {
+                    "dislike": [
+                        "RF transmitter set",
+                        "Lightning connector",
+                        "bluetooth link"
+                    ],
+                    "like_most": "2.4 GHz low-latency dongle",
+                    "like_second": [
+                        "USB-C digital interface",
+                        "wired connection"
+                    ]
+                }
+            },
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "front-side illuminated CMOS sensor",
+                        "stacked BSI CMOS sensor",
+                        "organic photoconductive film sensor"
+                    ],
+                    "like_most": "backside-illuminated CMOS sensor",
+                    "like_second": [
+                        "CCD sensor",
+                        "Foveon X3 sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Leica M mount",
+                        "Micro Four Thirds mount",
+                        "Canon EF mount"
+                    ],
+                    "like_most": "Sony E mount",
+                    "like_second": [
+                        "Canon RF mount",
+                        "Nikon F mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "rear LCD monitor",
+                        "optical viewfinder",
+                        "waist-level finder"
+                    ],
+                    "like_most": "rangefinder window",
+                    "like_second": [
+                        "external viewfinder module",
+                        "electronic viewfinder"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "air conditioner",
+            "smartphone",
+            "dishwasher",
+            "headphones",
+            "camera"
+        ]
+    },
+    "Ethan": {
+        "persona_info": {
+            "name": "Ethan",
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "Foveon X3 sensor",
+                        "front-side illuminated CMOS sensor",
+                        "CCD sensor"
+                    ],
+                    "like_most": "backside-illuminated CMOS sensor",
+                    "like_second": [
+                        "stacked BSI CMOS sensor",
+                        "organic photoconductive film sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Nikon F mount",
+                        "Leica M mount",
+                        "Sony E mount"
+                    ],
+                    "like_most": "Micro Four Thirds mount",
+                    "like_second": [
+                        "Canon EF mount",
+                        "Canon RF mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "rangefinder window",
+                        "electronic viewfinder",
+                        "external viewfinder module"
+                    ],
+                    "like_most": "waist-level finder",
+                    "like_second": [
+                        "rear LCD monitor",
+                        "optical viewfinder"
+                    ]
+                }
+            },
+            "laptop": {
+                "form factor": {
+                    "dislike": [
+                        "detachable keyboard tablet",
+                        "sliding-convertible hinge",
+                        "swivel-rotating hinge"
+                    ],
+                    "like_most": "dual-screen foldable hinge",
+                    "like_second": [
+                        "clamshell hinge",
+                        "360-degree convertible hinge"
+                    ]
+                },
+                "included charging adapter type": {
+                    "dislike": [
+                        "slim-tip AC adapter",
+                        "magnetic AC adapter",
+                        "barrel-jack AC adapter"
+                    ],
+                    "like_most": "USB-C AC adapter",
+                    "like_second": [
+                        "dock-connector AC adapter",
+                        "pogo-pin dock adapter"
+                    ]
+                },
+                "webcam placement": {
+                    "dislike": [
+                        "camera-less configuration",
+                        "top-bezel camera",
+                        "bottom-bezel camera"
+                    ],
+                    "like_most": "display-notch camera",
+                    "like_second": [
+                        "under-display camera",
+                        "keyboard pop-up camera"
+                    ]
+                }
+            },
+            "microwave oven": {
+                "primary heating mechanism": {
+                    "dislike": [
+                        "convection fan heating",
+                        "steam injection system",
+                        "solid-state RF amplifier heating"
+                    ],
+                    "like_most": "magnetron microwave emission",
+                    "like_second": [
+                        "inverter microwave control",
+                        "infrared radiant heating"
+                    ]
+                },
+                "door configuration": {
+                    "dislike": [
+                        "left-hinged swing door",
+                        "drop-lift vertical door",
+                        "french-door twin-door"
+                    ],
+                    "like_most": "top-hinged pull-down door",
+                    "like_second": [
+                        "right-hinged swing door",
+                        "side-sliding door"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "mechanical dial panel",
+                        "rotary encoder knob",
+                        "app-based remote control"
+                    ],
+                    "like_most": "voice command interface",
+                    "like_second": [
+                        "capacitive touch screen",
+                        "membrane touch keypad"
+                    ]
+                }
+            },
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "countertop compact unit",
+                        "portable freestanding unit",
+                        "built-in undercounter unit"
+                    ],
+                    "like_most": "double-drawer module",
+                    "like_second": [
+                        "ADA-height compliant unit",
+                        "panel-ready integrated unit"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "ultrasonic cavitation chamber",
+                        "rotary spray-arm system",
+                        "linear waterwall system"
+                    ],
+                    "like_most": "quad-wash multi-arm system",
+                    "like_second": [
+                        "impeller jet manifold",
+                        "orbital spray disk"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "condensation drying system",
+                        "fan-vent circulation module",
+                        "zeolite drying unit"
+                    ],
+                    "like_most": "heated-element drying system",
+                    "like_second": [
+                        "door-auto-open venting mechanism",
+                        "heat-pump drying system"
+                    ]
+                }
+            },
+            "headphones": {
+                "wearing style": {
+                    "dislike": [
+                        "in-ear design",
+                        "bone-conduction frame",
+                        "ear-hook in-ear design"
+                    ],
+                    "like_most": "over-ear design",
+                    "like_second": [
+                        "on-ear design",
+                        "behind-the-neck band"
+                    ]
+                },
+                "acoustic principle": {
+                    "dislike": [
+                        "piezoelectric transducer",
+                        "balanced armature module",
+                        "bone-vibration actuator"
+                    ],
+                    "like_most": "electrostatic transducer",
+                    "like_second": [
+                        "dynamic driver system",
+                        "planar magnetic array"
+                    ]
+                },
+                "primary connectivity mode": {
+                    "dislike": [
+                        "bluetooth link",
+                        "USB-C digital interface",
+                        "2.4 GHz low-latency dongle"
+                    ],
+                    "like_most": "Lightning connector",
+                    "like_second": [
+                        "wired connection",
+                        "RF transmitter set"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "camera",
+            "laptop",
+            "microwave oven",
+            "dishwasher",
+            "headphones"
+        ]
+    },
+    "Ava": {
+        "persona_info": {
+            "name": "Ava",
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "double-drawer module",
+                        "ADA-height compliant unit",
+                        "panel-ready integrated unit"
+                    ],
+                    "like_most": "built-in undercounter unit",
+                    "like_second": [
+                        "portable freestanding unit",
+                        "countertop compact unit"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "ultrasonic cavitation chamber",
+                        "linear waterwall system",
+                        "impeller jet manifold"
+                    ],
+                    "like_most": "rotary spray-arm system",
+                    "like_second": [
+                        "orbital spray disk",
+                        "quad-wash multi-arm system"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "heated-element drying system",
+                        "zeolite drying unit",
+                        "heat-pump drying system"
+                    ],
+                    "like_most": "condensation drying system",
+                    "like_second": [
+                        "fan-vent circulation module",
+                        "door-auto-open venting mechanism"
+                    ]
+                }
+            },
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "organic photoconductive film sensor",
+                        "stacked BSI CMOS sensor",
+                        "backside-illuminated CMOS sensor"
+                    ],
+                    "like_most": "Foveon X3 sensor",
+                    "like_second": [
+                        "front-side illuminated CMOS sensor",
+                        "CCD sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Canon RF mount",
+                        "Micro Four Thirds mount",
+                        "Canon EF mount"
+                    ],
+                    "like_most": "Sony E mount",
+                    "like_second": [
+                        "Nikon F mount",
+                        "Leica M mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "rear LCD monitor",
+                        "optical viewfinder",
+                        "electronic viewfinder"
+                    ],
+                    "like_most": "rangefinder window",
+                    "like_second": [
+                        "external viewfinder module",
+                        "waist-level finder"
+                    ]
+                }
+            },
+            "laptop": {
+                "form factor": {
+                    "dislike": [
+                        "clamshell hinge",
+                        "swivel-rotating hinge",
+                        "sliding-convertible hinge"
+                    ],
+                    "like_most": "detachable keyboard tablet",
+                    "like_second": [
+                        "dual-screen foldable hinge",
+                        "360-degree convertible hinge"
+                    ]
+                },
+                "included charging adapter type": {
+                    "dislike": [
+                        "slim-tip AC adapter",
+                        "magnetic AC adapter",
+                        "dock-connector AC adapter"
+                    ],
+                    "like_most": "barrel-jack AC adapter",
+                    "like_second": [
+                        "USB-C AC adapter",
+                        "pogo-pin dock adapter"
+                    ]
+                },
+                "webcam placement": {
+                    "dislike": [
+                        "under-display camera",
+                        "camera-less configuration",
+                        "bottom-bezel camera"
+                    ],
+                    "like_most": "keyboard pop-up camera",
+                    "like_second": [
+                        "display-notch camera",
+                        "top-bezel camera"
+                    ]
+                }
+            },
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Fire TV",
+                        "Google TV",
+                        "Roku TV"
+                    ],
+                    "like_most": "SmartCast platform",
+                    "like_second": [
+                        "Tizen",
+                        "webOS"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "VA LCD panel",
+                        "TN LCD panel",
+                        "QD-OLED panel"
+                    ],
+                    "like_most": "MicroLED panel",
+                    "like_second": [
+                        "IPS LCD panel",
+                        "OLED panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "integrated floor stand",
+                        "easel-frame base",
+                        "swivel pedestal base"
+                    ],
+                    "like_most": "central pedestal base",
+                    "like_second": [
+                        "wall-mount-only design",
+                        "dual-feet base"
+                    ]
+                }
+            },
+            "headphones": {
+                "wearing style": {
+                    "dislike": [
+                        "bone-conduction frame",
+                        "in-ear design",
+                        "over-ear design"
+                    ],
+                    "like_most": "ear-hook in-ear design",
+                    "like_second": [
+                        "behind-the-neck band",
+                        "on-ear design"
+                    ]
+                },
+                "acoustic principle": {
+                    "dislike": [
+                        "bone-vibration actuator",
+                        "piezoelectric transducer",
+                        "balanced armature module"
+                    ],
+                    "like_most": "planar magnetic array",
+                    "like_second": [
+                        "electrostatic transducer",
+                        "dynamic driver system"
+                    ]
+                },
+                "primary connectivity mode": {
+                    "dislike": [
+                        "bluetooth link",
+                        "2.4 GHz low-latency dongle",
+                        "Lightning connector"
+                    ],
+                    "like_most": "wired connection",
+                    "like_second": [
+                        "RF transmitter set",
+                        "USB-C digital interface"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "dishwasher",
+            "camera",
+            "laptop",
+            "TV",
+            "headphones"
+        ]
+    },
+    "Mason": {
+        "persona_info": {
+            "name": "Mason",
+            "air conditioner": {
+                "cooling mechanism type": {
+                    "dislike": [
+                        "liquid desiccant dehumidification loop",
+                        "thermoelectric module",
+                        "evaporative cooling chamber"
+                    ],
+                    "like_most": "vapor-compression system",
+                    "like_second": [
+                        "magnetic refrigeration core",
+                        "absorption refrigeration system"
+                    ]
+                },
+                "installation configuration": {
+                    "dislike": [
+                        "split system",
+                        "ceiling cassette module",
+                        "ducted central system"
+                    ],
+                    "like_most": "portable tower unit",
+                    "like_second": [
+                        "window unit",
+                        "through-the-wall sleeve unit"
+                    ]
+                },
+                "primary airflow distribution mode": {
+                    "dislike": [
+                        "fixed-louver outlet",
+                        "360-degree circular discharge",
+                        "floor-level displacement vent"
+                    ],
+                    "like_most": "multi-duct venting network",
+                    "like_second": [
+                        "oscillating-blade diffuser",
+                        "coanda-deflector outlet"
+                    ]
+                }
+            },
+            "microwave oven": {
+                "primary heating mechanism": {
+                    "dislike": [
+                        "steam injection system",
+                        "solid-state RF amplifier heating",
+                        "magnetron microwave emission"
+                    ],
+                    "like_most": "infrared radiant heating",
+                    "like_second": [
+                        "inverter microwave control",
+                        "convection fan heating"
+                    ]
+                },
+                "door configuration": {
+                    "dislike": [
+                        "right-hinged swing door",
+                        "top-hinged pull-down door",
+                        "drop-lift vertical door"
+                    ],
+                    "like_most": "side-sliding door",
+                    "like_second": [
+                        "french-door twin-door",
+                        "left-hinged swing door"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "mechanical dial panel",
+                        "rotary encoder knob",
+                        "membrane touch keypad"
+                    ],
+                    "like_most": "app-based remote control",
+                    "like_second": [
+                        "voice command interface",
+                        "capacitive touch screen"
+                    ]
+                }
+            },
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "quad-door layout",
+                        "french-door layout",
+                        "side-by-side structure"
+                    ],
+                    "like_most": "bottom-freezer layout",
+                    "like_second": [
+                        "top-freezer layout",
+                        "single-door design"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "thermoelectric Peltier system",
+                        "absorption cooling system",
+                        "inverter compressor loop"
+                    ],
+                    "like_most": "dual-evaporator inverter system",
+                    "like_second": [
+                        "dual-loop sealed system",
+                        "fixed-speed compressor loop"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "drawer-centric structure",
+                        "fixed-shelf layout",
+                        "door-compartment emphasis"
+                    ],
+                    "like_most": "convertible-zone partition",
+                    "like_second": [
+                        "modular-bin system",
+                        "door-in-door access module"
+                    ]
+                }
+            },
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "CCD sensor",
+                        "organic photoconductive film sensor",
+                        "stacked BSI CMOS sensor"
+                    ],
+                    "like_most": "Foveon X3 sensor",
+                    "like_second": [
+                        "backside-illuminated CMOS sensor",
+                        "front-side illuminated CMOS sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Micro Four Thirds mount",
+                        "Sony E mount",
+                        "Leica M mount"
+                    ],
+                    "like_most": "Canon EF mount",
+                    "like_second": [
+                        "Nikon F mount",
+                        "Canon RF mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "external viewfinder module",
+                        "rear LCD monitor",
+                        "rangefinder window"
+                    ],
+                    "like_most": "waist-level finder",
+                    "like_second": [
+                        "optical viewfinder",
+                        "electronic viewfinder"
+                    ]
+                }
+            },
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Google TV",
+                        "webOS",
+                        "Roku TV"
+                    ],
+                    "like_most": "Tizen",
+                    "like_second": [
+                        "SmartCast platform",
+                        "Fire TV"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "OLED panel",
+                        "VA LCD panel",
+                        "TN LCD panel"
+                    ],
+                    "like_most": "MicroLED panel",
+                    "like_second": [
+                        "IPS LCD panel",
+                        "QD-OLED panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "dual-feet base",
+                        "easel-frame base",
+                        "central pedestal base"
+                    ],
+                    "like_most": "swivel pedestal base",
+                    "like_second": [
+                        "integrated floor stand",
+                        "wall-mount-only design"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "air conditioner",
+            "microwave oven",
+            "refrigerator",
+            "camera",
+            "TV"
+        ]
+    },
+    "Isabella": {
+        "persona_info": {
+            "name": "Isabella",
+            "smartphone": {
+                "primary interaction modality": {
+                    "dislike": [
+                        "touchscreen interface",
+                        "stylus interface",
+                        "pressure-squeeze input"
+                    ],
+                    "like_most": "physical keypad interface",
+                    "like_second": [
+                        "voice command system",
+                        "gesture control system"
+                    ]
+                },
+                "biometric authentication method": {
+                    "dislike": [
+                        "facial recognition system",
+                        "palm vein recognition",
+                        "iris recognition system"
+                    ],
+                    "like_most": "voice authentication system",
+                    "like_second": [
+                        "palm print recognition",
+                        "fingerprint scanner"
+                    ]
+                },
+                "rear camera module count": {
+                    "dislike": [
+                        "quad rear camera module",
+                        "dual rear camera module",
+                        "penta rear camera module"
+                    ],
+                    "like_most": "single rear camera module",
+                    "like_second": [
+                        "triple rear camera module",
+                        "rear camera\u2013less configuration"
+                    ]
+                }
+            },
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "built-in undercounter unit",
+                        "ADA-height compliant unit",
+                        "portable freestanding unit"
+                    ],
+                    "like_most": "double-drawer module",
+                    "like_second": [
+                        "countertop compact unit",
+                        "panel-ready integrated unit"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "linear waterwall system",
+                        "rotary spray-arm system",
+                        "ultrasonic cavitation chamber"
+                    ],
+                    "like_most": "quad-wash multi-arm system",
+                    "like_second": [
+                        "orbital spray disk",
+                        "impeller jet manifold"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "condensation drying system",
+                        "zeolite drying unit",
+                        "door-auto-open venting mechanism"
+                    ],
+                    "like_most": "fan-vent circulation module",
+                    "like_second": [
+                        "heated-element drying system",
+                        "heat-pump drying system"
+                    ]
+                }
+            },
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "single-door design",
+                        "quad-door layout",
+                        "side-by-side structure"
+                    ],
+                    "like_most": "top-freezer layout",
+                    "like_second": [
+                        "bottom-freezer layout",
+                        "french-door layout"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "dual-evaporator inverter system",
+                        "absorption cooling system",
+                        "dual-loop sealed system"
+                    ],
+                    "like_most": "thermoelectric Peltier system",
+                    "like_second": [
+                        "inverter compressor loop",
+                        "fixed-speed compressor loop"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "modular-bin system",
+                        "door-in-door access module",
+                        "fixed-shelf layout"
+                    ],
+                    "like_most": "door-compartment emphasis",
+                    "like_second": [
+                        "convertible-zone partition",
+                        "drawer-centric structure"
+                    ]
+                }
+            },
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "CCD sensor",
+                        "front-side illuminated CMOS sensor",
+                        "backside-illuminated CMOS sensor"
+                    ],
+                    "like_most": "organic photoconductive film sensor",
+                    "like_second": [
+                        "Foveon X3 sensor",
+                        "stacked BSI CMOS sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Nikon F mount",
+                        "Canon RF mount",
+                        "Leica M mount"
+                    ],
+                    "like_most": "Canon EF mount",
+                    "like_second": [
+                        "Micro Four Thirds mount",
+                        "Sony E mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "optical viewfinder",
+                        "electronic viewfinder",
+                        "waist-level finder"
+                    ],
+                    "like_most": "rear LCD monitor",
+                    "like_second": [
+                        "external viewfinder module",
+                        "rangefinder window"
+                    ]
+                }
+            },
+            "washing machine": {
+                "loading mechanism": {
+                    "dislike": [
+                        "pedestal drawer washer module",
+                        "vertical-axis agitator system",
+                        "tilt-drum mechanism"
+                    ],
+                    "like_most": "twin-tub compartment",
+                    "like_second": [
+                        "front-loading drum",
+                        "top-loading drum"
+                    ]
+                },
+                "washing motion system": {
+                    "dislike": [
+                        "agitator system",
+                        "impeller plate system",
+                        "pulsator plate system"
+                    ],
+                    "like_most": "reciprocating drum system",
+                    "like_second": [
+                        "ultrasonic cavitation wash",
+                        "tumble drum system"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "rotary knob controller",
+                        "push-button console",
+                        "dial-and-display hybrid panel"
+                    ],
+                    "like_most": "touchscreen interface",
+                    "like_second": [
+                        "mechanical dial panel",
+                        "smartphone app interface"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "smartphone",
+            "dishwasher",
+            "refrigerator",
+            "camera",
+            "washing machine"
+        ]
+    },
+    "Lucas": {
+        "persona_info": {
+            "name": "Lucas",
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Roku TV",
+                        "Fire TV",
+                        "Tizen"
+                    ],
+                    "like_most": "SmartCast platform",
+                    "like_second": [
+                        "webOS",
+                        "Google TV"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "MicroLED panel",
+                        "TN LCD panel",
+                        "IPS LCD panel"
+                    ],
+                    "like_most": "OLED panel",
+                    "like_second": [
+                        "QD-OLED panel",
+                        "VA LCD panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "swivel pedestal base",
+                        "dual-feet base",
+                        "easel-frame base"
+                    ],
+                    "like_most": "central pedestal base",
+                    "like_second": [
+                        "wall-mount-only design",
+                        "integrated floor stand"
+                    ]
+                }
+            },
+            "smartphone": {
+                "primary interaction modality": {
+                    "dislike": [
+                        "stylus interface",
+                        "physical keypad interface",
+                        "pressure-squeeze input"
+                    ],
+                    "like_most": "gesture control system",
+                    "like_second": [
+                        "touchscreen interface",
+                        "voice command system"
+                    ]
+                },
+                "biometric authentication method": {
+                    "dislike": [
+                        "voice authentication system",
+                        "facial recognition system",
+                        "palm print recognition"
+                    ],
+                    "like_most": "iris recognition system",
+                    "like_second": [
+                        "palm vein recognition",
+                        "fingerprint scanner"
+                    ]
+                },
+                "rear camera module count": {
+                    "dislike": [
+                        "rear camera\u2013less configuration",
+                        "single rear camera module",
+                        "penta rear camera module"
+                    ],
+                    "like_most": "dual rear camera module",
+                    "like_second": [
+                        "triple rear camera module",
+                        "quad rear camera module"
+                    ]
+                }
+            },
+            "washing machine": {
+                "loading mechanism": {
+                    "dislike": [
+                        "front-loading drum",
+                        "vertical-axis agitator system",
+                        "top-loading drum"
+                    ],
+                    "like_most": "twin-tub compartment",
+                    "like_second": [
+                        "tilt-drum mechanism",
+                        "pedestal drawer washer module"
+                    ]
+                },
+                "washing motion system": {
+                    "dislike": [
+                        "ultrasonic cavitation wash",
+                        "impeller plate system",
+                        "reciprocating drum system"
+                    ],
+                    "like_most": "pulsator plate system",
+                    "like_second": [
+                        "tumble drum system",
+                        "agitator system"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "push-button console",
+                        "smartphone app interface",
+                        "rotary knob controller"
+                    ],
+                    "like_most": "touchscreen interface",
+                    "like_second": [
+                        "dial-and-display hybrid panel",
+                        "mechanical dial panel"
+                    ]
+                }
+            },
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "countertop compact unit",
+                        "double-drawer module",
+                        "built-in undercounter unit"
+                    ],
+                    "like_most": "panel-ready integrated unit",
+                    "like_second": [
+                        "ADA-height compliant unit",
+                        "portable freestanding unit"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "rotary spray-arm system",
+                        "impeller jet manifold",
+                        "quad-wash multi-arm system"
+                    ],
+                    "like_most": "orbital spray disk",
+                    "like_second": [
+                        "ultrasonic cavitation chamber",
+                        "linear waterwall system"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "zeolite drying unit",
+                        "door-auto-open venting mechanism",
+                        "condensation drying system"
+                    ],
+                    "like_most": "heat-pump drying system",
+                    "like_second": [
+                        "fan-vent circulation module",
+                        "heated-element drying system"
+                    ]
+                }
+            },
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "quad-door layout",
+                        "top-freezer layout",
+                        "side-by-side structure"
+                    ],
+                    "like_most": "french-door layout",
+                    "like_second": [
+                        "bottom-freezer layout",
+                        "single-door design"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "dual-evaporator inverter system",
+                        "dual-loop sealed system",
+                        "fixed-speed compressor loop"
+                    ],
+                    "like_most": "absorption cooling system",
+                    "like_second": [
+                        "inverter compressor loop",
+                        "thermoelectric Peltier system"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "modular-bin system",
+                        "door-in-door access module",
+                        "door-compartment emphasis"
+                    ],
+                    "like_most": "drawer-centric structure",
+                    "like_second": [
+                        "convertible-zone partition",
+                        "fixed-shelf layout"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "TV",
+            "smartphone",
+            "washing machine",
+            "dishwasher",
+            "refrigerator"
+        ]
+    },
+    "Mia": {
+        "persona_info": {
+            "name": "Mia",
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "ADA-height compliant unit",
+                        "portable freestanding unit",
+                        "countertop compact unit"
+                    ],
+                    "like_most": "double-drawer module",
+                    "like_second": [
+                        "built-in undercounter unit",
+                        "panel-ready integrated unit"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "impeller jet manifold",
+                        "quad-wash multi-arm system",
+                        "rotary spray-arm system"
+                    ],
+                    "like_most": "ultrasonic cavitation chamber",
+                    "like_second": [
+                        "linear waterwall system",
+                        "orbital spray disk"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "door-auto-open venting mechanism",
+                        "fan-vent circulation module",
+                        "heated-element drying system"
+                    ],
+                    "like_most": "condensation drying system",
+                    "like_second": [
+                        "zeolite drying unit",
+                        "heat-pump drying system"
+                    ]
+                }
+            },
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Tizen",
+                        "Roku TV",
+                        "webOS"
+                    ],
+                    "like_most": "Google TV",
+                    "like_second": [
+                        "Fire TV",
+                        "SmartCast platform"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "MicroLED panel",
+                        "QD-OLED panel",
+                        "TN LCD panel"
+                    ],
+                    "like_most": "OLED panel",
+                    "like_second": [
+                        "VA LCD panel",
+                        "IPS LCD panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "integrated floor stand",
+                        "central pedestal base",
+                        "wall-mount-only design"
+                    ],
+                    "like_most": "dual-feet base",
+                    "like_second": [
+                        "swivel pedestal base",
+                        "easel-frame base"
+                    ]
+                }
+            },
+            "air conditioner": {
+                "cooling mechanism type": {
+                    "dislike": [
+                        "vapor-compression system",
+                        "evaporative cooling chamber",
+                        "magnetic refrigeration core"
+                    ],
+                    "like_most": "liquid desiccant dehumidification loop",
+                    "like_second": [
+                        "thermoelectric module",
+                        "absorption refrigeration system"
+                    ]
+                },
+                "installation configuration": {
+                    "dislike": [
+                        "portable tower unit",
+                        "ceiling cassette module",
+                        "through-the-wall sleeve unit"
+                    ],
+                    "like_most": "split system",
+                    "like_second": [
+                        "ducted central system",
+                        "window unit"
+                    ]
+                },
+                "primary airflow distribution mode": {
+                    "dislike": [
+                        "360-degree circular discharge",
+                        "multi-duct venting network",
+                        "fixed-louver outlet"
+                    ],
+                    "like_most": "coanda-deflector outlet",
+                    "like_second": [
+                        "floor-level displacement vent",
+                        "oscillating-blade diffuser"
+                    ]
+                }
+            },
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "bottom-freezer layout",
+                        "side-by-side structure",
+                        "quad-door layout"
+                    ],
+                    "like_most": "french-door layout",
+                    "like_second": [
+                        "top-freezer layout",
+                        "single-door design"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "dual-evaporator inverter system",
+                        "thermoelectric Peltier system",
+                        "inverter compressor loop"
+                    ],
+                    "like_most": "dual-loop sealed system",
+                    "like_second": [
+                        "fixed-speed compressor loop",
+                        "absorption cooling system"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "drawer-centric structure",
+                        "door-in-door access module",
+                        "modular-bin system"
+                    ],
+                    "like_most": "convertible-zone partition",
+                    "like_second": [
+                        "fixed-shelf layout",
+                        "door-compartment emphasis"
+                    ]
+                }
+            },
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "Foveon X3 sensor",
+                        "stacked BSI CMOS sensor",
+                        "CCD sensor"
+                    ],
+                    "like_most": "backside-illuminated CMOS sensor",
+                    "like_second": [
+                        "front-side illuminated CMOS sensor",
+                        "organic photoconductive film sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Leica M mount",
+                        "Canon RF mount",
+                        "Nikon F mount"
+                    ],
+                    "like_most": "Sony E mount",
+                    "like_second": [
+                        "Canon EF mount",
+                        "Micro Four Thirds mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "rear LCD monitor",
+                        "electronic viewfinder",
+                        "external viewfinder module"
+                    ],
+                    "like_most": "optical viewfinder",
+                    "like_second": [
+                        "rangefinder window",
+                        "waist-level finder"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "dishwasher",
+            "TV",
+            "air conditioner",
+            "refrigerator",
+            "camera"
+        ]
+    },
+    "Alexander": {
+        "persona_info": {
+            "name": "Alexander",
+            "headphones": {
+                "wearing style": {
+                    "dislike": [
+                        "on-ear design",
+                        "in-ear design",
+                        "over-ear design"
+                    ],
+                    "like_most": "behind-the-neck band",
+                    "like_second": [
+                        "bone-conduction frame",
+                        "ear-hook in-ear design"
+                    ]
+                },
+                "acoustic principle": {
+                    "dislike": [
+                        "planar magnetic array",
+                        "bone-vibration actuator",
+                        "electrostatic transducer"
+                    ],
+                    "like_most": "dynamic driver system",
+                    "like_second": [
+                        "balanced armature module",
+                        "piezoelectric transducer"
+                    ]
+                },
+                "primary connectivity mode": {
+                    "dislike": [
+                        "wired connection",
+                        "RF transmitter set",
+                        "USB-C digital interface"
+                    ],
+                    "like_most": "2.4 GHz low-latency dongle",
+                    "like_second": [
+                        "bluetooth link",
+                        "Lightning connector"
+                    ]
+                }
+            },
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Fire TV",
+                        "Tizen",
+                        "Roku TV"
+                    ],
+                    "like_most": "webOS",
+                    "like_second": [
+                        "SmartCast platform",
+                        "Google TV"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "VA LCD panel",
+                        "TN LCD panel",
+                        "QD-OLED panel"
+                    ],
+                    "like_most": "OLED panel",
+                    "like_second": [
+                        "MicroLED panel",
+                        "IPS LCD panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "integrated floor stand",
+                        "wall-mount-only design",
+                        "dual-feet base"
+                    ],
+                    "like_most": "central pedestal base",
+                    "like_second": [
+                        "swivel pedestal base",
+                        "easel-frame base"
+                    ]
+                }
+            },
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "backside-illuminated CMOS sensor",
+                        "front-side illuminated CMOS sensor",
+                        "organic photoconductive film sensor"
+                    ],
+                    "like_most": "CCD sensor",
+                    "like_second": [
+                        "stacked BSI CMOS sensor",
+                        "Foveon X3 sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Nikon F mount",
+                        "Canon EF mount",
+                        "Leica M mount"
+                    ],
+                    "like_most": "Canon RF mount",
+                    "like_second": [
+                        "Sony E mount",
+                        "Micro Four Thirds mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "waist-level finder",
+                        "external viewfinder module",
+                        "optical viewfinder"
+                    ],
+                    "like_most": "rangefinder window",
+                    "like_second": [
+                        "electronic viewfinder",
+                        "rear LCD monitor"
+                    ]
+                }
+            },
+            "washing machine": {
+                "loading mechanism": {
+                    "dislike": [
+                        "vertical-axis agitator system",
+                        "front-loading drum",
+                        "pedestal drawer washer module"
+                    ],
+                    "like_most": "twin-tub compartment",
+                    "like_second": [
+                        "tilt-drum mechanism",
+                        "top-loading drum"
+                    ]
+                },
+                "washing motion system": {
+                    "dislike": [
+                        "tumble drum system",
+                        "reciprocating drum system",
+                        "pulsator plate system"
+                    ],
+                    "like_most": "agitator system",
+                    "like_second": [
+                        "impeller plate system",
+                        "ultrasonic cavitation wash"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "rotary knob controller",
+                        "mechanical dial panel",
+                        "dial-and-display hybrid panel"
+                    ],
+                    "like_most": "smartphone app interface",
+                    "like_second": [
+                        "push-button console",
+                        "touchscreen interface"
+                    ]
+                }
+            },
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "french-door layout",
+                        "single-door design",
+                        "side-by-side structure"
+                    ],
+                    "like_most": "top-freezer layout",
+                    "like_second": [
+                        "bottom-freezer layout",
+                        "quad-door layout"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "thermoelectric Peltier system",
+                        "dual-evaporator inverter system",
+                        "fixed-speed compressor loop"
+                    ],
+                    "like_most": "inverter compressor loop",
+                    "like_second": [
+                        "absorption cooling system",
+                        "dual-loop sealed system"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "convertible-zone partition",
+                        "door-in-door access module",
+                        "drawer-centric structure"
+                    ],
+                    "like_most": "fixed-shelf layout",
+                    "like_second": [
+                        "door-compartment emphasis",
+                        "modular-bin system"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "headphones",
+            "TV",
+            "camera",
+            "washing machine",
+            "refrigerator"
+        ]
+    },
+    "Charlotte": {
+        "persona_info": {
+            "name": "Charlotte",
+            "smartphone": {
+                "primary interaction modality": {
+                    "dislike": [
+                        "physical keypad interface",
+                        "touchscreen interface",
+                        "gesture control system"
+                    ],
+                    "like_most": "voice command system",
+                    "like_second": [
+                        "stylus interface",
+                        "pressure-squeeze input"
+                    ]
+                },
+                "biometric authentication method": {
+                    "dislike": [
+                        "palm vein recognition",
+                        "facial recognition system",
+                        "fingerprint scanner"
+                    ],
+                    "like_most": "voice authentication system",
+                    "like_second": [
+                        "iris recognition system",
+                        "palm print recognition"
+                    ]
+                },
+                "rear camera module count": {
+                    "dislike": [
+                        "triple rear camera module",
+                        "quad rear camera module",
+                        "rear camera\u2013less configuration"
+                    ],
+                    "like_most": "dual rear camera module",
+                    "like_second": [
+                        "penta rear camera module",
+                        "single rear camera module"
+                    ]
+                }
+            },
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "ADA-height compliant unit",
+                        "portable freestanding unit",
+                        "panel-ready integrated unit"
+                    ],
+                    "like_most": "countertop compact unit",
+                    "like_second": [
+                        "built-in undercounter unit",
+                        "double-drawer module"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "ultrasonic cavitation chamber",
+                        "impeller jet manifold",
+                        "linear waterwall system"
+                    ],
+                    "like_most": "rotary spray-arm system",
+                    "like_second": [
+                        "quad-wash multi-arm system",
+                        "orbital spray disk"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "zeolite drying unit",
+                        "door-auto-open venting mechanism",
+                        "heated-element drying system"
+                    ],
+                    "like_most": "heat-pump drying system",
+                    "like_second": [
+                        "fan-vent circulation module",
+                        "condensation drying system"
+                    ]
+                }
+            },
+            "air conditioner": {
+                "cooling mechanism type": {
+                    "dislike": [
+                        "liquid desiccant dehumidification loop",
+                        "thermoelectric module",
+                        "absorption refrigeration system"
+                    ],
+                    "like_most": "magnetic refrigeration core",
+                    "like_second": [
+                        "vapor-compression system",
+                        "evaporative cooling chamber"
+                    ]
+                },
+                "installation configuration": {
+                    "dislike": [
+                        "ceiling cassette module",
+                        "split system",
+                        "portable tower unit"
+                    ],
+                    "like_most": "through-the-wall sleeve unit",
+                    "like_second": [
+                        "window unit",
+                        "ducted central system"
+                    ]
+                },
+                "primary airflow distribution mode": {
+                    "dislike": [
+                        "multi-duct venting network",
+                        "coanda-deflector outlet",
+                        "fixed-louver outlet"
+                    ],
+                    "like_most": "floor-level displacement vent",
+                    "like_second": [
+                        "360-degree circular discharge",
+                        "oscillating-blade diffuser"
+                    ]
+                }
+            },
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Roku TV",
+                        "Google TV",
+                        "Fire TV"
+                    ],
+                    "like_most": "webOS",
+                    "like_second": [
+                        "Tizen",
+                        "SmartCast platform"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "QD-OLED panel",
+                        "MicroLED panel",
+                        "IPS LCD panel"
+                    ],
+                    "like_most": "OLED panel",
+                    "like_second": [
+                        "VA LCD panel",
+                        "TN LCD panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "integrated floor stand",
+                        "wall-mount-only design",
+                        "easel-frame base"
+                    ],
+                    "like_most": "swivel pedestal base",
+                    "like_second": [
+                        "dual-feet base",
+                        "central pedestal base"
+                    ]
+                }
+            },
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "front-side illuminated CMOS sensor",
+                        "Foveon X3 sensor",
+                        "stacked BSI CMOS sensor"
+                    ],
+                    "like_most": "backside-illuminated CMOS sensor",
+                    "like_second": [
+                        "organic photoconductive film sensor",
+                        "CCD sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Sony E mount",
+                        "Canon RF mount",
+                        "Leica M mount"
+                    ],
+                    "like_most": "Canon EF mount",
+                    "like_second": [
+                        "Micro Four Thirds mount",
+                        "Nikon F mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "rear LCD monitor",
+                        "optical viewfinder",
+                        "external viewfinder module"
+                    ],
+                    "like_most": "waist-level finder",
+                    "like_second": [
+                        "electronic viewfinder",
+                        "rangefinder window"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "smartphone",
+            "dishwasher",
+            "air conditioner",
+            "TV",
+            "camera"
+        ]
+    },
+    "James": {
+        "persona_info": {
+            "name": "James",
+            "microwave oven": {
+                "primary heating mechanism": {
+                    "dislike": [
+                        "inverter microwave control",
+                        "infrared radiant heating",
+                        "steam injection system"
+                    ],
+                    "like_most": "convection fan heating",
+                    "like_second": [
+                        "magnetron microwave emission",
+                        "solid-state RF amplifier heating"
+                    ]
+                },
+                "door configuration": {
+                    "dislike": [
+                        "left-hinged swing door",
+                        "right-hinged swing door",
+                        "side-sliding door"
+                    ],
+                    "like_most": "top-hinged pull-down door",
+                    "like_second": [
+                        "drop-lift vertical door",
+                        "french-door twin-door"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "app-based remote control",
+                        "mechanical dial panel",
+                        "rotary encoder knob"
+                    ],
+                    "like_most": "membrane touch keypad",
+                    "like_second": [
+                        "capacitive touch screen",
+                        "voice command interface"
+                    ]
+                }
+            },
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Tizen",
+                        "webOS",
+                        "Roku TV"
+                    ],
+                    "like_most": "SmartCast platform",
+                    "like_second": [
+                        "Fire TV",
+                        "Google TV"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "MicroLED panel",
+                        "OLED panel",
+                        "TN LCD panel"
+                    ],
+                    "like_most": "IPS LCD panel",
+                    "like_second": [
+                        "VA LCD panel",
+                        "QD-OLED panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "central pedestal base",
+                        "integrated floor stand",
+                        "easel-frame base"
+                    ],
+                    "like_most": "dual-feet base",
+                    "like_second": [
+                        "swivel pedestal base",
+                        "wall-mount-only design"
+                    ]
+                }
+            },
+            "washing machine": {
+                "loading mechanism": {
+                    "dislike": [
+                        "top-loading drum",
+                        "tilt-drum mechanism",
+                        "front-loading drum"
+                    ],
+                    "like_most": "twin-tub compartment",
+                    "like_second": [
+                        "pedestal drawer washer module",
+                        "vertical-axis agitator system"
+                    ]
+                },
+                "washing motion system": {
+                    "dislike": [
+                        "pulsator plate system",
+                        "ultrasonic cavitation wash",
+                        "impeller plate system"
+                    ],
+                    "like_most": "tumble drum system",
+                    "like_second": [
+                        "reciprocating drum system",
+                        "agitator system"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "smartphone app interface",
+                        "rotary knob controller",
+                        "touchscreen interface"
+                    ],
+                    "like_most": "mechanical dial panel",
+                    "like_second": [
+                        "dial-and-display hybrid panel",
+                        "push-button console"
+                    ]
+                }
+            },
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "panel-ready integrated unit",
+                        "ADA-height compliant unit",
+                        "countertop compact unit"
+                    ],
+                    "like_most": "double-drawer module",
+                    "like_second": [
+                        "portable freestanding unit",
+                        "built-in undercounter unit"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "quad-wash multi-arm system",
+                        "rotary spray-arm system",
+                        "impeller jet manifold"
+                    ],
+                    "like_most": "ultrasonic cavitation chamber",
+                    "like_second": [
+                        "orbital spray disk",
+                        "linear waterwall system"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "zeolite drying unit",
+                        "door-auto-open venting mechanism",
+                        "condensation drying system"
+                    ],
+                    "like_most": "heated-element drying system",
+                    "like_second": [
+                        "fan-vent circulation module",
+                        "heat-pump drying system"
+                    ]
+                }
+            },
+            "air conditioner": {
+                "cooling mechanism type": {
+                    "dislike": [
+                        "thermoelectric module",
+                        "evaporative cooling chamber",
+                        "liquid desiccant dehumidification loop"
+                    ],
+                    "like_most": "absorption refrigeration system",
+                    "like_second": [
+                        "magnetic refrigeration core",
+                        "vapor-compression system"
+                    ]
+                },
+                "installation configuration": {
+                    "dislike": [
+                        "portable tower unit",
+                        "split system",
+                        "through-the-wall sleeve unit"
+                    ],
+                    "like_most": "ceiling cassette module",
+                    "like_second": [
+                        "ducted central system",
+                        "window unit"
+                    ]
+                },
+                "primary airflow distribution mode": {
+                    "dislike": [
+                        "coanda-deflector outlet",
+                        "360-degree circular discharge",
+                        "floor-level displacement vent"
+                    ],
+                    "like_most": "multi-duct venting network",
+                    "like_second": [
+                        "oscillating-blade diffuser",
+                        "fixed-louver outlet"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "microwave oven",
+            "TV",
+            "washing machine",
+            "dishwasher",
+            "air conditioner"
+        ]
+    },
+    "Amelia": {
+        "persona_info": {
+            "name": "Amelia",
+            "headphones": {
+                "wearing style": {
+                    "dislike": [
+                        "in-ear design",
+                        "behind-the-neck band",
+                        "bone-conduction frame"
+                    ],
+                    "like_most": "on-ear design",
+                    "like_second": [
+                        "over-ear design",
+                        "ear-hook in-ear design"
+                    ]
+                },
+                "acoustic principle": {
+                    "dislike": [
+                        "planar magnetic array",
+                        "electrostatic transducer",
+                        "balanced armature module"
+                    ],
+                    "like_most": "bone-vibration actuator",
+                    "like_second": [
+                        "dynamic driver system",
+                        "piezoelectric transducer"
+                    ]
+                },
+                "primary connectivity mode": {
+                    "dislike": [
+                        "RF transmitter set",
+                        "2.4 GHz low-latency dongle",
+                        "wired connection"
+                    ],
+                    "like_most": "Lightning connector",
+                    "like_second": [
+                        "bluetooth link",
+                        "USB-C digital interface"
+                    ]
+                }
+            },
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Fire TV",
+                        "Google TV",
+                        "Roku TV"
+                    ],
+                    "like_most": "Tizen",
+                    "like_second": [
+                        "webOS",
+                        "SmartCast platform"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "OLED panel",
+                        "IPS LCD panel",
+                        "VA LCD panel"
+                    ],
+                    "like_most": "TN LCD panel",
+                    "like_second": [
+                        "MicroLED panel",
+                        "QD-OLED panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "dual-feet base",
+                        "central pedestal base",
+                        "swivel pedestal base"
+                    ],
+                    "like_most": "easel-frame base",
+                    "like_second": [
+                        "wall-mount-only design",
+                        "integrated floor stand"
+                    ]
+                }
+            },
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "quad-door layout",
+                        "french-door layout",
+                        "top-freezer layout"
+                    ],
+                    "like_most": "bottom-freezer layout",
+                    "like_second": [
+                        "side-by-side structure",
+                        "single-door design"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "thermoelectric Peltier system",
+                        "absorption cooling system",
+                        "fixed-speed compressor loop"
+                    ],
+                    "like_most": "inverter compressor loop",
+                    "like_second": [
+                        "dual-evaporator inverter system",
+                        "dual-loop sealed system"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "fixed-shelf layout",
+                        "drawer-centric structure",
+                        "door-compartment emphasis"
+                    ],
+                    "like_most": "door-in-door access module",
+                    "like_second": [
+                        "modular-bin system",
+                        "convertible-zone partition"
+                    ]
+                }
+            },
+            "laptop": {
+                "form factor": {
+                    "dislike": [
+                        "detachable keyboard tablet",
+                        "360-degree convertible hinge",
+                        "sliding-convertible hinge"
+                    ],
+                    "like_most": "clamshell hinge",
+                    "like_second": [
+                        "swivel-rotating hinge",
+                        "dual-screen foldable hinge"
+                    ]
+                },
+                "included charging adapter type": {
+                    "dislike": [
+                        "barrel-jack AC adapter",
+                        "magnetic AC adapter",
+                        "dock-connector AC adapter"
+                    ],
+                    "like_most": "USB-C AC adapter",
+                    "like_second": [
+                        "pogo-pin dock adapter",
+                        "slim-tip AC adapter"
+                    ]
+                },
+                "webcam placement": {
+                    "dislike": [
+                        "display-notch camera",
+                        "top-bezel camera",
+                        "under-display camera"
+                    ],
+                    "like_most": "keyboard pop-up camera",
+                    "like_second": [
+                        "bottom-bezel camera",
+                        "camera-less configuration"
+                    ]
+                }
+            },
+            "microwave oven": {
+                "primary heating mechanism": {
+                    "dislike": [
+                        "magnetron microwave emission",
+                        "steam injection system",
+                        "solid-state RF amplifier heating"
+                    ],
+                    "like_most": "infrared radiant heating",
+                    "like_second": [
+                        "inverter microwave control",
+                        "convection fan heating"
+                    ]
+                },
+                "door configuration": {
+                    "dislike": [
+                        "top-hinged pull-down door",
+                        "drop-lift vertical door",
+                        "left-hinged swing door"
+                    ],
+                    "like_most": "side-sliding door",
+                    "like_second": [
+                        "right-hinged swing door",
+                        "french-door twin-door"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "app-based remote control",
+                        "voice command interface",
+                        "membrane touch keypad"
+                    ],
+                    "like_most": "mechanical dial panel",
+                    "like_second": [
+                        "capacitive touch screen",
+                        "rotary encoder knob"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "headphones",
+            "TV",
+            "refrigerator",
+            "laptop",
+            "microwave oven"
+        ]
+    },
+    "Benjamin": {
+        "persona_info": {
+            "name": "Benjamin",
+            "smartphone": {
+                "primary interaction modality": {
+                    "dislike": [
+                        "physical keypad interface",
+                        "stylus interface",
+                        "voice command system"
+                    ],
+                    "like_most": "pressure-squeeze input",
+                    "like_second": [
+                        "gesture control system",
+                        "touchscreen interface"
+                    ]
+                },
+                "biometric authentication method": {
+                    "dislike": [
+                        "iris recognition system",
+                        "fingerprint scanner",
+                        "palm vein recognition"
+                    ],
+                    "like_most": "voice authentication system",
+                    "like_second": [
+                        "palm print recognition",
+                        "facial recognition system"
+                    ]
+                },
+                "rear camera module count": {
+                    "dislike": [
+                        "dual rear camera module",
+                        "penta rear camera module",
+                        "rear camera\u2013less configuration"
+                    ],
+                    "like_most": "triple rear camera module",
+                    "like_second": [
+                        "quad rear camera module",
+                        "single rear camera module"
+                    ]
+                }
+            },
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "stacked BSI CMOS sensor",
+                        "front-side illuminated CMOS sensor",
+                        "Foveon X3 sensor"
+                    ],
+                    "like_most": "CCD sensor",
+                    "like_second": [
+                        "backside-illuminated CMOS sensor",
+                        "organic photoconductive film sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Canon RF mount",
+                        "Leica M mount",
+                        "Micro Four Thirds mount"
+                    ],
+                    "like_most": "Canon EF mount",
+                    "like_second": [
+                        "Nikon F mount",
+                        "Sony E mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "optical viewfinder",
+                        "waist-level finder",
+                        "external viewfinder module"
+                    ],
+                    "like_most": "rangefinder window",
+                    "like_second": [
+                        "rear LCD monitor",
+                        "electronic viewfinder"
+                    ]
+                }
+            },
+            "microwave oven": {
+                "primary heating mechanism": {
+                    "dislike": [
+                        "magnetron microwave emission",
+                        "steam injection system",
+                        "infrared radiant heating"
+                    ],
+                    "like_most": "inverter microwave control",
+                    "like_second": [
+                        "solid-state RF amplifier heating",
+                        "convection fan heating"
+                    ]
+                },
+                "door configuration": {
+                    "dislike": [
+                        "left-hinged swing door",
+                        "side-sliding door",
+                        "french-door twin-door"
+                    ],
+                    "like_most": "drop-lift vertical door",
+                    "like_second": [
+                        "top-hinged pull-down door",
+                        "right-hinged swing door"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "capacitive touch screen",
+                        "rotary encoder knob",
+                        "membrane touch keypad"
+                    ],
+                    "like_most": "mechanical dial panel",
+                    "like_second": [
+                        "voice command interface",
+                        "app-based remote control"
+                    ]
+                }
+            },
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "countertop compact unit",
+                        "double-drawer module",
+                        "built-in undercounter unit"
+                    ],
+                    "like_most": "ADA-height compliant unit",
+                    "like_second": [
+                        "panel-ready integrated unit",
+                        "portable freestanding unit"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "ultrasonic cavitation chamber",
+                        "linear waterwall system",
+                        "orbital spray disk"
+                    ],
+                    "like_most": "impeller jet manifold",
+                    "like_second": [
+                        "rotary spray-arm system",
+                        "quad-wash multi-arm system"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "condensation drying system",
+                        "heated-element drying system",
+                        "door-auto-open venting mechanism"
+                    ],
+                    "like_most": "zeolite drying unit",
+                    "like_second": [
+                        "heat-pump drying system",
+                        "fan-vent circulation module"
+                    ]
+                }
+            },
+            "washing machine": {
+                "loading mechanism": {
+                    "dislike": [
+                        "pedestal drawer washer module",
+                        "vertical-axis agitator system",
+                        "front-loading drum"
+                    ],
+                    "like_most": "tilt-drum mechanism",
+                    "like_second": [
+                        "twin-tub compartment",
+                        "top-loading drum"
+                    ]
+                },
+                "washing motion system": {
+                    "dislike": [
+                        "tumble drum system",
+                        "reciprocating drum system",
+                        "agitator system"
+                    ],
+                    "like_most": "impeller plate system",
+                    "like_second": [
+                        "ultrasonic cavitation wash",
+                        "pulsator plate system"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "push-button console",
+                        "touchscreen interface",
+                        "smartphone app interface"
+                    ],
+                    "like_most": "dial-and-display hybrid panel",
+                    "like_second": [
+                        "mechanical dial panel",
+                        "rotary knob controller"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "smartphone",
+            "camera",
+            "microwave oven",
+            "dishwasher",
+            "washing machine"
+        ]
+    },
+    "Harper": {
+        "persona_info": {
+            "name": "Harper",
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "organic photoconductive film sensor",
+                        "front-side illuminated CMOS sensor",
+                        "Foveon X3 sensor"
+                    ],
+                    "like_most": "CCD sensor",
+                    "like_second": [
+                        "backside-illuminated CMOS sensor",
+                        "stacked BSI CMOS sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Sony E mount",
+                        "Canon RF mount",
+                        "Leica M mount"
+                    ],
+                    "like_most": "Canon EF mount",
+                    "like_second": [
+                        "Nikon F mount",
+                        "Micro Four Thirds mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "electronic viewfinder",
+                        "rear LCD monitor",
+                        "waist-level finder"
+                    ],
+                    "like_most": "optical viewfinder",
+                    "like_second": [
+                        "rangefinder window",
+                        "external viewfinder module"
+                    ]
+                }
+            },
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Roku TV",
+                        "Fire TV",
+                        "webOS"
+                    ],
+                    "like_most": "SmartCast platform",
+                    "like_second": [
+                        "Google TV",
+                        "Tizen"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "MicroLED panel",
+                        "IPS LCD panel",
+                        "QD-OLED panel"
+                    ],
+                    "like_most": "OLED panel",
+                    "like_second": [
+                        "TN LCD panel",
+                        "VA LCD panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "central pedestal base",
+                        "wall-mount-only design",
+                        "easel-frame base"
+                    ],
+                    "like_most": "swivel pedestal base",
+                    "like_second": [
+                        "integrated floor stand",
+                        "dual-feet base"
+                    ]
+                }
+            },
+            "dishwasher": {
+                "installation format": {
+                    "dislike": [
+                        "double-drawer module",
+                        "countertop compact unit",
+                        "ADA-height compliant unit"
+                    ],
+                    "like_most": "portable freestanding unit",
+                    "like_second": [
+                        "built-in undercounter unit",
+                        "panel-ready integrated unit"
+                    ]
+                },
+                "water distribution architecture": {
+                    "dislike": [
+                        "rotary spray-arm system",
+                        "quad-wash multi-arm system",
+                        "orbital spray disk"
+                    ],
+                    "like_most": "ultrasonic cavitation chamber",
+                    "like_second": [
+                        "linear waterwall system",
+                        "impeller jet manifold"
+                    ]
+                },
+                "primary drying technology": {
+                    "dislike": [
+                        "fan-vent circulation module",
+                        "heated-element drying system",
+                        "zeolite drying unit"
+                    ],
+                    "like_most": "door-auto-open venting mechanism",
+                    "like_second": [
+                        "condensation drying system",
+                        "heat-pump drying system"
+                    ]
+                }
+            },
+            "smartphone": {
+                "primary interaction modality": {
+                    "dislike": [
+                        "touchscreen interface",
+                        "voice command system",
+                        "physical keypad interface"
+                    ],
+                    "like_most": "pressure-squeeze input",
+                    "like_second": [
+                        "stylus interface",
+                        "gesture control system"
+                    ]
+                },
+                "biometric authentication method": {
+                    "dislike": [
+                        "facial recognition system",
+                        "palm vein recognition",
+                        "fingerprint scanner"
+                    ],
+                    "like_most": "voice authentication system",
+                    "like_second": [
+                        "iris recognition system",
+                        "palm print recognition"
+                    ]
+                },
+                "rear camera module count": {
+                    "dislike": [
+                        "penta rear camera module",
+                        "quad rear camera module",
+                        "rear camera\u2013less configuration"
+                    ],
+                    "like_most": "single rear camera module",
+                    "like_second": [
+                        "triple rear camera module",
+                        "dual rear camera module"
+                    ]
+                }
+            },
+            "air conditioner": {
+                "cooling mechanism type": {
+                    "dislike": [
+                        "magnetic refrigeration core",
+                        "absorption refrigeration system",
+                        "thermoelectric module"
+                    ],
+                    "like_most": "liquid desiccant dehumidification loop",
+                    "like_second": [
+                        "evaporative cooling chamber",
+                        "vapor-compression system"
+                    ]
+                },
+                "installation configuration": {
+                    "dislike": [
+                        "split system",
+                        "through-the-wall sleeve unit",
+                        "ceiling cassette module"
+                    ],
+                    "like_most": "window unit",
+                    "like_second": [
+                        "ducted central system",
+                        "portable tower unit"
+                    ]
+                },
+                "primary airflow distribution mode": {
+                    "dislike": [
+                        "coanda-deflector outlet",
+                        "floor-level displacement vent",
+                        "360-degree circular discharge"
+                    ],
+                    "like_most": "oscillating-blade diffuser",
+                    "like_second": [
+                        "multi-duct venting network",
+                        "fixed-louver outlet"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "camera",
+            "TV",
+            "dishwasher",
+            "smartphone",
+            "air conditioner"
+        ]
+    },
+    "William": {
+        "persona_info": {
+            "name": "William",
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "quad-door layout",
+                        "single-door design",
+                        "top-freezer layout"
+                    ],
+                    "like_most": "side-by-side structure",
+                    "like_second": [
+                        "french-door layout",
+                        "bottom-freezer layout"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "dual-evaporator inverter system",
+                        "absorption cooling system",
+                        "fixed-speed compressor loop"
+                    ],
+                    "like_most": "inverter compressor loop",
+                    "like_second": [
+                        "dual-loop sealed system",
+                        "thermoelectric Peltier system"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "drawer-centric structure",
+                        "convertible-zone partition",
+                        "modular-bin system"
+                    ],
+                    "like_most": "fixed-shelf layout",
+                    "like_second": [
+                        "door-in-door access module",
+                        "door-compartment emphasis"
+                    ]
+                }
+            },
+            "smartphone": {
+                "primary interaction modality": {
+                    "dislike": [
+                        "gesture control system",
+                        "touchscreen interface",
+                        "stylus interface"
+                    ],
+                    "like_most": "pressure-squeeze input",
+                    "like_second": [
+                        "physical keypad interface",
+                        "voice command system"
+                    ]
+                },
+                "biometric authentication method": {
+                    "dislike": [
+                        "palm print recognition",
+                        "iris recognition system",
+                        "fingerprint scanner"
+                    ],
+                    "like_most": "palm vein recognition",
+                    "like_second": [
+                        "facial recognition system",
+                        "voice authentication system"
+                    ]
+                },
+                "rear camera module count": {
+                    "dislike": [
+                        "triple rear camera module",
+                        "single rear camera module",
+                        "quad rear camera module"
+                    ],
+                    "like_most": "penta rear camera module",
+                    "like_second": [
+                        "rear camera\u2013less configuration",
+                        "dual rear camera module"
+                    ]
+                }
+            },
+            "TV": {
+                "smart tv operating system": {
+                    "dislike": [
+                        "Fire TV",
+                        "SmartCast platform",
+                        "Roku TV"
+                    ],
+                    "like_most": "webOS",
+                    "like_second": [
+                        "Google TV",
+                        "Tizen"
+                    ]
+                },
+                "panel technology": {
+                    "dislike": [
+                        "VA LCD panel",
+                        "MicroLED panel",
+                        "TN LCD panel"
+                    ],
+                    "like_most": "OLED panel",
+                    "like_second": [
+                        "IPS LCD panel",
+                        "QD-OLED panel"
+                    ]
+                },
+                "base type": {
+                    "dislike": [
+                        "swivel pedestal base",
+                        "easel-frame base",
+                        "central pedestal base"
+                    ],
+                    "like_most": "integrated floor stand",
+                    "like_second": [
+                        "dual-feet base",
+                        "wall-mount-only design"
+                    ]
+                }
+            },
+            "headphones": {
+                "wearing style": {
+                    "dislike": [
+                        "in-ear design",
+                        "behind-the-neck band",
+                        "ear-hook in-ear design"
+                    ],
+                    "like_most": "on-ear design",
+                    "like_second": [
+                        "over-ear design",
+                        "bone-conduction frame"
+                    ]
+                },
+                "acoustic principle": {
+                    "dislike": [
+                        "electrostatic transducer",
+                        "balanced armature module",
+                        "dynamic driver system"
+                    ],
+                    "like_most": "piezoelectric transducer",
+                    "like_second": [
+                        "planar magnetic array",
+                        "bone-vibration actuator"
+                    ]
+                },
+                "primary connectivity mode": {
+                    "dislike": [
+                        "2.4 GHz low-latency dongle",
+                        "Lightning connector",
+                        "RF transmitter set"
+                    ],
+                    "like_most": "wired connection",
+                    "like_second": [
+                        "USB-C digital interface",
+                        "bluetooth link"
+                    ]
+                }
+            },
+            "washing machine": {
+                "loading mechanism": {
+                    "dislike": [
+                        "top-loading drum",
+                        "twin-tub compartment",
+                        "vertical-axis agitator system"
+                    ],
+                    "like_most": "pedestal drawer washer module",
+                    "like_second": [
+                        "tilt-drum mechanism",
+                        "front-loading drum"
+                    ]
+                },
+                "washing motion system": {
+                    "dislike": [
+                        "reciprocating drum system",
+                        "tumble drum system",
+                        "agitator system"
+                    ],
+                    "like_most": "ultrasonic cavitation wash",
+                    "like_second": [
+                        "impeller plate system",
+                        "pulsator plate system"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "touchscreen interface",
+                        "mechanical dial panel",
+                        "push-button console"
+                    ],
+                    "like_most": "dial-and-display hybrid panel",
+                    "like_second": [
+                        "smartphone app interface",
+                        "rotary knob controller"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "refrigerator",
+            "smartphone",
+            "TV",
+            "headphones",
+            "washing machine"
+        ]
+    },
+    "Evelyn": {
+        "persona_info": {
+            "name": "Evelyn",
+            "air conditioner": {
+                "cooling mechanism type": {
+                    "dislike": [
+                        "liquid desiccant dehumidification loop",
+                        "vapor-compression system",
+                        "thermoelectric module"
+                    ],
+                    "like_most": "magnetic refrigeration core",
+                    "like_second": [
+                        "evaporative cooling chamber",
+                        "absorption refrigeration system"
+                    ]
+                },
+                "installation configuration": {
+                    "dislike": [
+                        "portable tower unit",
+                        "through-the-wall sleeve unit",
+                        "split system"
+                    ],
+                    "like_most": "ducted central system",
+                    "like_second": [
+                        "window unit",
+                        "ceiling cassette module"
+                    ]
+                },
+                "primary airflow distribution mode": {
+                    "dislike": [
+                        "coanda-deflector outlet",
+                        "360-degree circular discharge",
+                        "oscillating-blade diffuser"
+                    ],
+                    "like_most": "fixed-louver outlet",
+                    "like_second": [
+                        "multi-duct venting network",
+                        "floor-level displacement vent"
+                    ]
+                }
+            },
+            "headphones": {
+                "wearing style": {
+                    "dislike": [
+                        "ear-hook in-ear design",
+                        "over-ear design",
+                        "bone-conduction frame"
+                    ],
+                    "like_most": "behind-the-neck band",
+                    "like_second": [
+                        "in-ear design",
+                        "on-ear design"
+                    ]
+                },
+                "acoustic principle": {
+                    "dislike": [
+                        "planar magnetic array",
+                        "electrostatic transducer",
+                        "piezoelectric transducer"
+                    ],
+                    "like_most": "bone-vibration actuator",
+                    "like_second": [
+                        "dynamic driver system",
+                        "balanced armature module"
+                    ]
+                },
+                "primary connectivity mode": {
+                    "dislike": [
+                        "RF transmitter set",
+                        "Lightning connector",
+                        "wired connection"
+                    ],
+                    "like_most": "USB-C digital interface",
+                    "like_second": [
+                        "2.4 GHz low-latency dongle",
+                        "bluetooth link"
+                    ]
+                }
+            },
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "front-side illuminated CMOS sensor",
+                        "Foveon X3 sensor",
+                        "stacked BSI CMOS sensor"
+                    ],
+                    "like_most": "organic photoconductive film sensor",
+                    "like_second": [
+                        "CCD sensor",
+                        "backside-illuminated CMOS sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Canon EF mount",
+                        "Micro Four Thirds mount",
+                        "Canon RF mount"
+                    ],
+                    "like_most": "Leica M mount",
+                    "like_second": [
+                        "Sony E mount",
+                        "Nikon F mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "electronic viewfinder",
+                        "external viewfinder module",
+                        "waist-level finder"
+                    ],
+                    "like_most": "rangefinder window",
+                    "like_second": [
+                        "rear LCD monitor",
+                        "optical viewfinder"
+                    ]
+                }
+            },
+            "microwave oven": {
+                "primary heating mechanism": {
+                    "dislike": [
+                        "inverter microwave control",
+                        "solid-state RF amplifier heating",
+                        "magnetron microwave emission"
+                    ],
+                    "like_most": "steam injection system",
+                    "like_second": [
+                        "infrared radiant heating",
+                        "convection fan heating"
+                    ]
+                },
+                "door configuration": {
+                    "dislike": [
+                        "top-hinged pull-down door",
+                        "side-sliding door",
+                        "left-hinged swing door"
+                    ],
+                    "like_most": "french-door twin-door",
+                    "like_second": [
+                        "right-hinged swing door",
+                        "drop-lift vertical door"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "app-based remote control",
+                        "capacitive touch screen",
+                        "membrane touch keypad"
+                    ],
+                    "like_most": "mechanical dial panel",
+                    "like_second": [
+                        "rotary encoder knob",
+                        "voice command interface"
+                    ]
+                }
+            },
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "bottom-freezer layout",
+                        "quad-door layout",
+                        "french-door layout"
+                    ],
+                    "like_most": "top-freezer layout",
+                    "like_second": [
+                        "single-door design",
+                        "side-by-side structure"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "dual-loop sealed system",
+                        "thermoelectric Peltier system",
+                        "inverter compressor loop"
+                    ],
+                    "like_most": "fixed-speed compressor loop",
+                    "like_second": [
+                        "dual-evaporator inverter system",
+                        "absorption cooling system"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "convertible-zone partition",
+                        "door-compartment emphasis",
+                        "drawer-centric structure"
+                    ],
+                    "like_most": "modular-bin system",
+                    "like_second": [
+                        "fixed-shelf layout",
+                        "door-in-door access module"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "air conditioner",
+            "headphones",
+            "camera",
+            "microwave oven",
+            "refrigerator"
+        ]
+    },
+    "Michael": {
+        "persona_info": {
+            "name": "Michael",
+            "laptop": {
+                "form factor": {
+                    "dislike": [
+                        "swivel-rotating hinge",
+                        "360-degree convertible hinge",
+                        "clamshell hinge"
+                    ],
+                    "like_most": "dual-screen foldable hinge",
+                    "like_second": [
+                        "detachable keyboard tablet",
+                        "sliding-convertible hinge"
+                    ]
+                },
+                "included charging adapter type": {
+                    "dislike": [
+                        "dock-connector AC adapter",
+                        "USB-C AC adapter",
+                        "barrel-jack AC adapter"
+                    ],
+                    "like_most": "pogo-pin dock adapter",
+                    "like_second": [
+                        "magnetic AC adapter",
+                        "slim-tip AC adapter"
+                    ]
+                },
+                "webcam placement": {
+                    "dislike": [
+                        "under-display camera",
+                        "bottom-bezel camera",
+                        "top-bezel camera"
+                    ],
+                    "like_most": "display-notch camera",
+                    "like_second": [
+                        "keyboard pop-up camera",
+                        "camera-less configuration"
+                    ]
+                }
+            },
+            "headphones": {
+                "wearing style": {
+                    "dislike": [
+                        "over-ear design",
+                        "in-ear design",
+                        "ear-hook in-ear design"
+                    ],
+                    "like_most": "behind-the-neck band",
+                    "like_second": [
+                        "on-ear design",
+                        "bone-conduction frame"
+                    ]
+                },
+                "acoustic principle": {
+                    "dislike": [
+                        "dynamic driver system",
+                        "balanced armature module",
+                        "bone-vibration actuator"
+                    ],
+                    "like_most": "electrostatic transducer",
+                    "like_second": [
+                        "planar magnetic array",
+                        "piezoelectric transducer"
+                    ]
+                },
+                "primary connectivity mode": {
+                    "dislike": [
+                        "Lightning connector",
+                        "wired connection",
+                        "RF transmitter set"
+                    ],
+                    "like_most": "USB-C digital interface",
+                    "like_second": [
+                        "bluetooth link",
+                        "2.4 GHz low-latency dongle"
+                    ]
+                }
+            },
+            "camera": {
+                "image sensor type": {
+                    "dislike": [
+                        "organic photoconductive film sensor",
+                        "front-side illuminated CMOS sensor",
+                        "stacked BSI CMOS sensor"
+                    ],
+                    "like_most": "backside-illuminated CMOS sensor",
+                    "like_second": [
+                        "Foveon X3 sensor",
+                        "CCD sensor"
+                    ]
+                },
+                "lens mount system": {
+                    "dislike": [
+                        "Sony E mount",
+                        "Canon RF mount",
+                        "Canon EF mount"
+                    ],
+                    "like_most": "Nikon F mount",
+                    "like_second": [
+                        "Leica M mount",
+                        "Micro Four Thirds mount"
+                    ]
+                },
+                "primary viewfinding method": {
+                    "dislike": [
+                        "electronic viewfinder",
+                        "external viewfinder module",
+                        "rangefinder window"
+                    ],
+                    "like_most": "rear LCD monitor",
+                    "like_second": [
+                        "optical viewfinder",
+                        "waist-level finder"
+                    ]
+                }
+            },
+            "washing machine": {
+                "loading mechanism": {
+                    "dislike": [
+                        "twin-tub compartment",
+                        "front-loading drum",
+                        "tilt-drum mechanism"
+                    ],
+                    "like_most": "pedestal drawer washer module",
+                    "like_second": [
+                        "vertical-axis agitator system",
+                        "top-loading drum"
+                    ]
+                },
+                "washing motion system": {
+                    "dislike": [
+                        "reciprocating drum system",
+                        "tumble drum system",
+                        "impeller plate system"
+                    ],
+                    "like_most": "pulsator plate system",
+                    "like_second": [
+                        "ultrasonic cavitation wash",
+                        "agitator system"
+                    ]
+                },
+                "primary control interface": {
+                    "dislike": [
+                        "touchscreen interface",
+                        "dial-and-display hybrid panel",
+                        "rotary knob controller"
+                    ],
+                    "like_most": "mechanical dial panel",
+                    "like_second": [
+                        "push-button console",
+                        "smartphone app interface"
+                    ]
+                }
+            },
+            "refrigerator": {
+                "door configuration": {
+                    "dislike": [
+                        "french-door layout",
+                        "side-by-side structure",
+                        "quad-door layout"
+                    ],
+                    "like_most": "top-freezer layout",
+                    "like_second": [
+                        "bottom-freezer layout",
+                        "single-door design"
+                    ]
+                },
+                "primary cooling architecture": {
+                    "dislike": [
+                        "dual-evaporator inverter system",
+                        "thermoelectric Peltier system",
+                        "absorption cooling system"
+                    ],
+                    "like_most": "dual-loop sealed system",
+                    "like_second": [
+                        "inverter compressor loop",
+                        "fixed-speed compressor loop"
+                    ]
+                },
+                "storage organization type": {
+                    "dislike": [
+                        "convertible-zone partition",
+                        "door-in-door access module",
+                        "door-compartment emphasis"
+                    ],
+                    "like_most": "modular-bin system",
+                    "like_second": [
+                        "fixed-shelf layout",
+                        "drawer-centric structure"
+                    ]
+                }
+            }
+        },
+        "sample_list": [
+            "laptop",
+            "headphones",
+            "camera",
+            "washing machine",
+            "refrigerator"
+        ]
+    }
+}
