@@ -219,7 +219,12 @@ To add a new memory backend, implement the `MemoryBank` abstract class in `memor
 If you use this code in your research, please cite:
 
 ```
-[TO BE ADDED]
+@article{liang2026learning,
+  title={Learning Personalized Agents from Human Feedback},
+  author={Liang, Kaiqu and Kruk, Julia and Qian, Shengyi and Yang, Xianjun and Bi, Shengjie and Yao, Yuanshun and Nie, Shaoliang and Zhang, Mingyang and Liu, Lijuan and Fisac, Jaime Fern{\'a}ndez and others},
+  journal={arXiv preprint arXiv:2602.16173},
+  year={2026}
+}
 ```
 
 ## License
