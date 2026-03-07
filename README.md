@@ -2,7 +2,7 @@
 
 <h2> Learning Personalized Agents from Human Feedback </h2>
 
-🌐 [Project Page](https://personalized-ai.github.io/) | 📄 [Paper]()
+🌐 [Project Page](https://personalized-ai.github.io/) | 📄 [Paper](https://arxiv.org/pdf/2602.16173)
 
 <p>Kaiqu Liang<sup>1,2</sup>, Julia Kruk<sup>1</sup>, Shengyi Qian<sup>1</sup>, Xianjun Yang<sup>1</sup>, Shengjie Bi<sup>1</sup>, Yuanshun Yao<sup>1</sup>, Shaoliang Nie<sup>1</sup>, Mingyang Zhang<sup>1</sup>, Lijuan Liu<sup>1</sup>, Jaime Fernández Fisac<sup>2</sup>, Shuyan Zhou<sup>1,3</sup>, Saghar Hosseini<sup>1</sup></p>
 
