@@ -1,3 +1,9 @@
+# Copyright (c) 2017-present, Facebook, Inc.
+# All rights reserved.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
 prompt_alex = """You are simulating a human named Alex in an office kitchen interacting with a robot assistant. You interact with the robot in two ways: (1) answering clarification questions before actions and (2) providing feedback after actions.
 
 YOUR PERSONA:
